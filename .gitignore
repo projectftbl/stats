@@ -1,0 +1,9 @@
+node_modules/
+tmp/
+logs/
+coverage/
+lib/temp/
+
+*.log
+.DS_Store
+.vagrant/
