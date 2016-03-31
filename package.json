@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/stats",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Stats.com API",
   "main": "node index",
   "scripts": {
