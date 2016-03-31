@@ -1,3 +1,3 @@
-## @ftbl/social
+## @ftbl/stats
 
-Social network APIs made easy.
+Stats.com API.
